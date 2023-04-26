@@ -1,0 +1,61 @@
+<resources>
+    <string name="Repeat">Repeat</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Clear_All">Clear All</string>
+    <string name="Alarm_Off">Alarm Off</string>
+    <string-array name="Repeat_Days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="Repeat_Days1">
+        <item>sun</item>
+        <item>mon</item>
+        <item>tue</item>
+        <item>wed</item>
+        <item>thurs</item>
+        <item>fri</item>
+        <item>sat</item>
+    </string-array>
+    <string-array name="Puzzle_Difficulty">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="Puzzle_type">
+        <item>Random</item>
+        <item>Mathematics</item>
+        <item>General Knowledge</item>
+    </string-array>
+    <string-array name="Ringtone_Select">
+        <item>Tone-1</item>
+        <item>Tone-2</item>
+        <item>Tone-3</item>
+        <item>Tone-4</item>
+        <item>Tone-5</item>
+    </string-array>
+    <string name="SetAlarm">Set</string>
+    <string name="Choose">Set The Time</string>
+    <string name="app_name">ALARME</string>
+    <string name="alarms">Alarms</string>
+    <string name="title_activity_main__screen">Main_Screen</string>
+    <string name="title_activity_add__alarm">Add_Alarm</string>
+    <string name="null_string">NULL</string>
+    <string name="Delete">Delete</string>
+    <string name="Label_1">Label</string>
+    <string name="Time">Time</string>
+    <string name="Label">Label</string>
+    <string name="SP_Difficulty">Puzzle_Difficulty</string>
+    <string name="SP_Puzzle_type">Puzzle_type</string>
+    <string name="SP_Ringtone">Tone_Number</string>
+    <string name="SP_Snooze_Duration">Snooze_Duration</string>
+</resources>
